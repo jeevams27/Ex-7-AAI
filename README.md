@@ -1,5 +1,5 @@
-<H4>Name: Paul Andrew D</H4>
-<H4>Register no.: 212221230075</H4>
+<H4>Name: Jeeva MS</H4>
+<H4>Register no.: 212221230040</H4>
 <H4>EX. NO.7</H4>
 <H4>DATE: 28.10.24</H4>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
